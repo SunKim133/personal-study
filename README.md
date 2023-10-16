@@ -7,6 +7,4 @@ Hello there! 🚀 Welcome to my personal study repository. This is where I store
 
 While this is a personal study repository, I always welcome feedback, corrections, and suggestions. If you have any resources that you think would be beneficial for me or if you spot errors, please raise an issue or send a pull request.
 
----
-
 Happy coding! 💻
